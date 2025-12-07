@@ -9,4 +9,4 @@ This is an empty repo with a few commits to show how Git can be used and how cha
 - How to see what changes were made in a certain commit.
 
 ## Fun fact
-Git only took 10 days to develop.
+- Git only took 10 days to develop.
